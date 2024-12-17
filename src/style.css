@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .no-underline {
+        text-decoration: none; /* Убирает подчеркивание */
+      }
+}
+
